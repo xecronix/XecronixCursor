@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/test/" />
+  <Project Path="test/XecronixCursor.Test/XecronixCursor.Test.csproj" />
+  <Project Path="src/XecronixCursor/XecronixCursor.csproj" />
+</Solution>
